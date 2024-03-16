@@ -91,7 +91,7 @@ export function App() {
           </Grid>
         </Grid>
       )}
-      {ready && (window.location.href = 'http://localhost:57080/')}
+      {ready && (window.location.href = 'http://localhost:37080/')}
     </>
   );
 }
